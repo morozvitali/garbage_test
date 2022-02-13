@@ -1,8 +1,16 @@
 package CONSTR.DogEatPizza;
 
+
+
+
+
+
 public abstract class Auto {
     private String producer;
     private String model;
+    private Engine engine;
+
+
 
     private int currentSpeed;
     private boolean isRunning;
